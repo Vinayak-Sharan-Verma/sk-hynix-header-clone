@@ -1,5 +1,5 @@
 
-import { MatchingInterface } from "../components/MatchingInterface";
+import MatchingInterface from "../components/MatchingInterface";
 
 const Index = () => {
   return (
